@@ -1,6 +1,6 @@
 FROM registry.access.redhat.com/rhscl/php-70-rhel7
 
-RUN echo "<?php \$_SERVER['SERVER_ADDR']; ?>" >> /opt/app-root/src/index.php
+RUN echo "<?php echo \$_SERVER['SERVER_ADDR']; ?>" >> /opt/app-root/src/index.php
 
 RUN echo >> /opt/app-root/src/index.php
 
