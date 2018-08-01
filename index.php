@@ -1,12 +1,12 @@
 <?php
-echo "<h1>Openshift Workshop v4.0</h1> ";
+echo "<h1>Openshift Workshop v4.1</h1> ";
 echo "<h2>Usando o Liveness / Readiness</h2>";
 echo "<h2>WEBHOOKS</h2>";
 echo $_SERVER['SERVER_ADDR'];
 
 echo "<br><hr>";
 
-echo "<h1>MySQL 1.0</h1> ";
+echo "<h1>MySQL 1.1</h1> ";
 
 echo "<br><hr>";
 
