@@ -6,7 +6,7 @@ echo $_SERVER['SERVER_ADDR'];
 
 echo "<br><hr>";
 
-echo "<h1>MySQL 12.0</h1> ";
+echo "<h1>MySQL 1.0</h1> ";
 
 echo "<br><hr>";
 
